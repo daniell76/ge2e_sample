@@ -1,0 +1,6 @@
+.venv
+.ipynb_checkpoints
+.idea
+venv
+test_*
+sa-key.json

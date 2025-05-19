@@ -1,0 +1,9 @@
+{
+  "type":"gdch_service_account",
+  "format_version":"1",
+  "project":"gemini-test-38",
+  "private_key_id":"b55f0fdf-8baf-4550-ac2c-42756c50ab40",
+  "private_key":"-----BEGIN EC PRIVATE KEY-----\n<Private Key>\n-----END EC PRIVATE KEY-----\n",
+  "name":"ig-test-sa",
+  "token_uri":"https://service-accounts.lancer-org1.us-east38-a.google.gdch.test/authenticate"
+}
